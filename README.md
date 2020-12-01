@@ -1,2 +1,2 @@
-# JS_CollisionDetection
-Simple Javascript code, on collision/overlap detection, color changes
+# p5.play-boilerplate
+Boiler plate for p5.play
